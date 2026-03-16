@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ui_clone
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-ui-clone
+Flutter Web UI clone from interview test
+>>>>>>> 45cd6359d0cb305b632620909cf83d3f824f7870
